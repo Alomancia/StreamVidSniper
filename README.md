@@ -27,11 +27,14 @@ Get Youtube links from Twitch chat.
 > You need a Twitch and Google API and change it in the .py file.
 > (Probably gonna change it to make it more user friendly)
 
+- Google: https://developers.google.com/youtube/v3?hl=es-419
+- Twitch: https://dev.twitch.tv/console
+
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/alomancia/StreamvidSniper.git
-cd ChatYT
+cd StreamVidSniper
 ```
 
 2. Install the dependencies:
@@ -40,7 +43,7 @@ pip install -r requirements.txt
 ```
 3. Run the application:
 ```
-python ChatYT.py
+python StreamVidSniper_Public.py
 ```
 
 ## [WIP] Compiled Download
